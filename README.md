@@ -11,5 +11,7 @@ Making conflict with GitBash
 
 Conflicts to be made.
 
+Merging 2 branches.
+
 
 
