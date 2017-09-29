@@ -9,4 +9,7 @@ Making changes with GitBash
 
 Making conflict with GitBash
 
+Conflicts to be made.
+
+
 
