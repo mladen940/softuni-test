@@ -5,6 +5,6 @@ More testing.
 Trying new things.
 
 Exercising...
-Making changes for the master branch.
+Making changes with GitBash
 
 
